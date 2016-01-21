@@ -1,5 +1,3 @@
-# README #
-
 # TRIP
 
 Onboard robotics software for TRIP, the Test Robotics IoT Platform. Uses Spring Boot for software platform to facilitate monitoring, comm (REST + WebSocket using Jackson), etc. Experimentation mode, anything and everything subject to change. :)
